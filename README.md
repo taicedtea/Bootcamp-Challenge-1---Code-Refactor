@@ -2,4 +2,4 @@
 ## Decription
 For this challenge we were to update an existing marketing agency website to improve HTML semantics, accessibility and code structure.
 
-Link to live site: *coming soon*
+Link to live site: *https://taicedtea.github.io/bootcampChallenge_1_codeRefactor/*
